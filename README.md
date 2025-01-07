@@ -12,9 +12,7 @@ In our fast-paced world, effective communication is crucial across all areas of 
 - **Customizable Alerts:** Tailor alerts to fit your preferences, enabling notifications when certain communication cues are detected, ensuring you stay aware and engaged.
 - **Data Visualization:** Track your progress over time with detailed visualizations of communication metrics, helping to identify trends and areas for continuous improvement.
 
-## Screenshots
-
-![Screenshot 1](https://github.com/Manav-khadka/PosturePerfect/blob/ea3cd1b1423f5810d3c1ba15438d5aa96049a007/Screenshot%202023-06-03%20214727.png)
+## Sample working
 ![Screenshot 2](https://github.com/Manav-khadka/PosturePerfect/blob/ea3cd1b1423f5810d3c1ba15438d5aa96049a007/Screenshot%202023-06-04%20115514.png)
 
 ## Usage
