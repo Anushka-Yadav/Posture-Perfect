@@ -24,7 +24,7 @@ In our fast-paced world, effective communication is crucial across all areas of 
 
 ## Contact
 
-For any questions, support, or inquiries, please reach out via email at [your_email_here](mailto:anushkayadav17603@gmail.com).
+For any questions, support, or inquiries, please reach out via email at [anushkayadav17603@gmail.com](mailto:anushkayadav17603@gmail.com).
 
 ## Contributing
 
